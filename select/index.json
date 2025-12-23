@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ジェノサイドソウ・ヘヴン",
+  "base_artist": "月読調(CV:南條愛乃)",
+  "createdAt": "2025-12-23T21:55:19.645833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジェノサイドソウ・ヘヴン",
+      "artist": "月読調(CV:南條愛乃)",
+      "has_synced": true,
+      "path": "select/01_ジェノサイドソウ・ヘヴン_月読調(CV_南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジェノサイドソウ・ヘヴン",
+      "artist": "月読調 (南條愛乃)",
+      "has_synced": true,
+      "path": "select/02_ジェノサイドソウ・ヘヴン_月読調_(南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジェノサイドソウ・ヘヴン",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_ジェノサイドソウ・ヘヴン_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジェノサイドソウ・ヘヴン",
+      "artist": "月読調 (CV:南條愛乃)",
+      "has_synced": true,
+      "path": "select/04_ジェノサイドソウ・ヘヴン_月読調_(CV_南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジェノサイドソウ・ヘヴン",
+      "artist": "月読調(CV:南條愛乃)",
+      "has_synced": true,
+      "path": "select/05_ジェノサイドソウ・ヘヴン_月読調(CV_南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジェノサイドソウ・ヘヴン",
+      "artist": "月読調(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/06_ジェノサイドソウ・ヘヴン_月読調(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジェノサイドソウ・ヘヴン",
+      "artist": "月読調(南條愛乃)",
+      "has_synced": false,
+      "path": "select/pl_01_ジェノサイドソウ・ヘヴン_月読調(南條愛乃).txt"
+    }
+  ]
+}
